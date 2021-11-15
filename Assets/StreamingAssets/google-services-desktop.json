@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "993864060024-fl9anpumq10cura5epbgp3qviuon56jj.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-QCjDB4Mdc08T37RjiGqis-dKOTApmug"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:993864060024:ios:b320adf70ec4a05214f18d", 
+        "android_client_info": {
+          "package_name": "com.battleshipsxtreme"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "battleshipsxtreme.appspot.com", 
+    "project_id": "battleshipsxtreme", 
+    "firebase_url": "https://battleshipsxtreme-default-rtdb.europe-west1.firebasedatabase.app", 
+    "project_number": "993864060024"
+  }
+}
